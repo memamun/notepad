@@ -1,2 +1,5 @@
-# notepad
-Notepad is a lightweight note taking app in Python. Create, edit, and organize notes effortlessly. Features include search, export/import, and customization. Cross-platform and open-source.
+To run the notepad you need to have python installed.
+Open a terminal and run-
+
+
+python app.py
